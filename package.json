@@ -1,0 +1,17 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eugene Pilatov",
+  "license": "ISC",
+  "homepage": "https://test.com",
+  "repository": {
+    "type": "git",
+    "url": "https://test.com"
+  }
+}
